@@ -1,8 +1,7 @@
 1-first line
 2-
 3-third
-4-Modify to use git -diff
-macod,sqjkfnjkanfjnzajknfkjze fjknzaejknfejkzn=
-maco
+4-Modify to use git -dif
+
 
 7-lastline
