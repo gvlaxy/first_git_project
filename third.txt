@@ -2,6 +2,12 @@
 2-
 3-third
 4-Modify to use git -diff
+<<<<<<< HEAD
 maco
  tfdgerhdshr
+=======
+
+maco
+d,sqjkfnjkanfjnzajknfkjze fjknzaejknfejkzn
+>>>>>>> parent of f32d37f... add modification file
 7-lastline
